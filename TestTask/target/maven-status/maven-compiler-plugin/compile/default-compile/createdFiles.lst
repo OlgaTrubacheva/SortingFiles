@@ -1,0 +1,7 @@
+org\example\Main.class
+org\example\File\FileToSortString.class
+org\example\Sorting.class
+org\example\File\OutputFile.class
+org\example\InputData.class
+org\example\File\FileToSort.class
+org\example\File\FileToSortInteger.class
